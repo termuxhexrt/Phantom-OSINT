@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+dnspython
+phonenumbers
+colorama
+Pillow
+python-whois
